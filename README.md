@@ -1,5 +1,5 @@
 # TabungAneh
-abung Aneh
+Tabung Aneh
 
 Diberikan sebuah string kapital untuk dimasukkan kedalam sebuah tabung dengan kriteria sebagai berikut:
 
